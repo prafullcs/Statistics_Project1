@@ -14,13 +14,13 @@ Can customers be nudged towards payment methods that generate higher revenue for
 
 **Methodology**
 
-**Description Analysis**
+**Description Analysis :**
 Performed statistical analysis to summarize key aspects of the data, focusing on fare amounts and payment types.
 
-**Hypothesis Testing**
+**Hypothesis Testing :**
 Conducted a T-test to evaluate the relationship between payment type and fare amount, testing the hypothesis that different payment methods influence fare amounts.
 
-**Regression Analysis**
+**Regression Analysis :**
 Implemented linear regression to explore the relationship between trip duration (calculated from pickup and dropoff times) and fare amount.
 
 
@@ -51,7 +51,7 @@ This strong preference for card payments is potentially due to convenience, secu
 With a T statistic of 165.5 and a p-value less than 0.05, the null hypothesis is rejected, suggesting a significant difference in average fare between the two payment methods.
 
 **Recommendations**
-Encourage Credit Card Payments: To capitalize on the potential for generating more revenue for taxi drivers, encourage customers to pay with credit cards.
+- Encourage Credit Card Payments: To capitalize on the potential for generating more revenue for taxi drivers, encourage customers to pay with credit cards.
 Incentives for Credit Card Transactions: Implement strategies such as offering incentives or discounts for credit card transactions to promote this payment method.
 Enhance Payment Options: Provide seamless and secure credit card payment options to enhance customer convenience and encourage the adoption of this preferred payment method.
 
@@ -65,5 +65,5 @@ By understanding the relationship between payment type and fare amount, taxi ser
 
 
 
-
+                                                                                                                                         **By- Prafull Chandra Singh**
 
