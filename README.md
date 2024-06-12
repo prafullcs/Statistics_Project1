@@ -26,7 +26,8 @@ Implemented linear regression to explore the relationship between trip duration 
 
 **Journey Insights**
 - Card vs. Cash Payments: Customers paying with cards tend to have slightly higher average trip distances and fare amounts compared to those paying with cash. This indicates that customers prefer to pay more with - cards for high fare amounts and long trip distances.
-- ![image](https://github.com/prafullcs/Statistics_Project1/assets/90818539/ecf0d199-29ab-4bd3-9b25-278f9d87be04)
+
+![image](https://github.com/prafullcs/Statistics_Project1/assets/90818539/a2e02811-0e7b-4221-acb5-7837938f3d0e)
 
 
 **Preference of Payment Types**
