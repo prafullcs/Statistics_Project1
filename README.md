@@ -1,4 +1,4 @@
-![image](https://github.com/prafullcs/Statistics_Project1/assets/90818539/7a1c39d8-540e-42fe-b1e1-28dce25f9fee)# Statistics_Project1
+
 
 **Problem Statement**
 
@@ -26,15 +26,20 @@ Implemented linear regression to explore the relationship between trip duration 
 
 **Journey Insights**
 - Card vs. Cash Payments: Customers paying with cards tend to have slightly higher average trip distances and fare amounts compared to those paying with cash. This indicates that customers prefer to pay more with - cards for high fare amounts and long trip distances.
+- ![image](https://github.com/prafullcs/Statistics_Project1/assets/90818539/ecf0d199-29ab-4bd3-9b25-278f9d87be04)
+
 
 **Preference of Payment Types**
 - Card Payments: 67.5% of all transactions.
 - Cash Payments: 32.5% of all transactions.
 This strong preference for card payments is potentially due to convenience, security, and incentives offered for card transactions.
+![image](https://github.com/prafullcs/Statistics_Project1/assets/90818539/b1aa9fc1-945b-4307-9591-2efbacff4e6d)
 
-Passenger Count Analysis
+
+
+**Passenger Count Analysis**
  - Card Payments: Rides with a single passenger (passenger count = 1) constitute 40.08% of all card transactions.
--  Cash Payments: Single-passenger rides make up 20.04% of all cash transactions.
+-  Cash Payments: Single-passenger rides make up 20.04% of all cash transaction.
 
  There is a noticeable decrease in the percentage of transactions as the passenger count increases, suggesting larger groups are less likely to use taxis or may opt for alternative payment methods. These insights emphasize the importance of considering both payment method and passenger count when analyzing transaction data to understand customer behavior and preferences better.
 
