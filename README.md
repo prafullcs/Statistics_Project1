@@ -45,8 +45,9 @@ This strong preference for card payments is potentially due to convenience, secu
  There is a noticeable decrease in the percentage of transactions as the passenger count increases, suggesting larger groups are less likely to use taxis or may opt for alternative payment methods. These insights emphasize the importance of considering both payment method and passenger count when analyzing transaction data to understand customer behavior and preferences better.
 
 **Hypothesis Testing**
-Null Hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.
-Alternative Hypothesis: There is a difference in average fare between customers who use credit cards and customers who use cash.
+
+- Null Hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.
+- Alternative Hypothesis: There is a difference in average fare between customers who use credit cards and customers who use cash.
 With a T statistic of 165.5 and a p-value less than 0.05, the null hypothesis is rejected, suggesting a significant difference in average fare between the two payment methods.
 
 **Recommendations**
@@ -58,7 +59,8 @@ Enhance Payment Options: Provide seamless and secure credit card payment options
 By understanding the relationship between payment type and fare amount, taxi services can implement strategies to maximize revenue. Encouraging credit card payments through incentives and improved payment infrastructure can lead to increased revenue for drivers while maintaining a positive customer experience.
 
 
-Thank you.
+
+**Thank you.**
 
 
 
