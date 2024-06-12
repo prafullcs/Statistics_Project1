@@ -64,6 +64,6 @@ By understanding the relationship between payment type and fare amount, taxi ser
 
 
 
-
-                                                                                                                                         **By- Prafull Chandra Singh**
-
+  
+                                                     By- Prafull Chandra Singh
+                                                         Data Analyst 
